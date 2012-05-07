@@ -1,3 +1,7 @@
 /media/
 /gramm/README.txt
 /gramm/language_model.arpaformat.DMP
+build/
+gramm/META-INF/
+gramm/hub4opensrc.cd_continuous_8gau/
+nbproject
